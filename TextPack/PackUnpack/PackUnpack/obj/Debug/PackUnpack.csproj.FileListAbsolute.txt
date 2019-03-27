@@ -1,0 +1,6 @@
+C:\Users\Руслан\Desktop\Text\PackUnpack\PackUnpack\bin\Debug\PackUnpack.exe.config
+C:\Users\Руслан\Desktop\Text\PackUnpack\PackUnpack\bin\Debug\PackUnpack.exe
+C:\Users\Руслан\Desktop\Text\PackUnpack\PackUnpack\bin\Debug\PackUnpack.pdb
+C:\Users\Руслан\Desktop\Text\PackUnpack\PackUnpack\obj\Debug\PackUnpack.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\Text\PackUnpack\PackUnpack\obj\Debug\PackUnpack.exe
+C:\Users\Руслан\Desktop\Text\PackUnpack\PackUnpack\obj\Debug\PackUnpack.pdb
